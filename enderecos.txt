@@ -1,0 +1,33 @@
+
+# Hospital Alberto Cavalcanti
+Rua Camilo de Brito, 636 - Padre Eustáquio, Belo Horizonte - MG;Belo Horizonte;MG
+
+# Cetus Oncologia - Unidade Contagem
+Av. João César de Oliveira, 438 - Eldorado, Contagem - MG;Belo Horizonte;MG
+
+# Uniclínica BH - Clínica de Especialidades Médicas, Laboratório e Ultrassons
+R. das Gabirobas, 84 - Venda Nova, Belo Horizonte - MG;Belo Horizonte;MG
+
+# Radiodent Radiografias Odontológicas
+Av. Gen. Olímpio Mourão Filho, 788 - Planalto, Belo Horizonte - MG;Belo Horizonte;MG
+
+# Nova Clínica Serviços Médicos Especializados
+R. Prof. Célso Dias, 79 - Centro, Nova Lima - MG;Nova Lima;MG
+
+# CAPS SUS Saude mental
+R. do Aleijadinho, 2-76 - Mariana, MG;Mariana;MG
+
+# Instituto da Mente - Terapias Especializadas
+Rua Leibenitz H.dos Anjos, n⁰ 75 - Santa Matilde, Conselheiro Lafaiete - MG;Lafaiete;MG
+
+# Santa Casa BH
+Av. Francisco Sales, 1111 - Santa Efigênia, Belo Horizonte - MG;Belo Horizonte;MG
+
+# Centro de Quimioterapia Antiblástica Imunoterapia
+Rua dos Otoni, 909 - Santa Efigênia, Belo Horizonte - MG;Belo Horizonte;MG
+
+# CLIFIR - Clínica de Fisioterapia e Reeducação Funcional
+R. Dr. Euríco Rodrigues, 683 - Praia, Itabirito - MG;Itabirito;MG
+
+# Prefeitura - Ouro Preto
+#Praça Barão do Rio Branco, 12 - Pilar, Ouro Preto - MG;Ouro Preto;MG
